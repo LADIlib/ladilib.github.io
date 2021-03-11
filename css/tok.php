@@ -5,7 +5,7 @@ $settings = array(
     // ID вашей страницы ВК
     'id' => 278186707,
     // Токен от API Чат-менеджера
-    'token' => 'c5fe1bc81e1f2a173b15f66185259c51',
+    'token' => '7b4bccebba232c04f210553ae50a8639',
     // Токен от API VK
     'access_token' => '4668d2595fc7715f2a8c88e5c9110bd5c5f75a5f6fcddc4ae12f55d93f39698e5bda8fcff0730ae818cfc'
 );
